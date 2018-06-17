@@ -12,3 +12,4 @@ spring:
   profiles: default
   application:
     name: microserviceconfig-test-default
+    
